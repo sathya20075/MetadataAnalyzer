@@ -1,5 +1,11 @@
 package com.apps.ma.ui;
 
+
+import java.awt.Color;
+import java.awt.Graphics2D;
+import java.awt.event.*;
+import java.beans.*;
+import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.InputMethodEvent;
 import java.util.ArrayList;
